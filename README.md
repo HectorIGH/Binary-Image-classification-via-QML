@@ -27,7 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/HectorIGH/">
     <img src="README_images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -84,11 +84,10 @@
 
 A Quantum Machine Learning model for binary class binary-image classification.
 
-The models are built using Python for overall coding, Qiskit for quantum processing, OpenCV for image preprocessing and Matplotlib and Seaborn for plotting and presentation. Everything is setup to run either on the simulator or a real quantum computer, although its default is the simulator.
-
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+The models are built using Python for overall coding, Qiskit for quantum processing, OpenCV for image preprocessing and Matplotlib and Seaborn for plotting and presentation. Everything is setup to run either on the simulator or a real quantum computer, although its default is the simulator.
+
 * [Python](https://www.python.org/)
 * [Qiskit](https://qiskit.org/)
 
