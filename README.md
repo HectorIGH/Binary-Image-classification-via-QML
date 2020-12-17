@@ -82,23 +82,15 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://hectorigh.github.io/)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+A Quantum Machine Learning model for binary class binary-image classification.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+The models are built using Python for overall coding, Qiskit for quantum processing, OpenCV for image preprocessing and Matplotlib and Seaborn for plotting and presentation. Everything is setup to run either on the simulator or a real quantum computer, although its default is the simulator.
 
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* [Python](https://www.python.org/)
+* [Qiskit](https://qiskit.org/)
 
 
 
@@ -173,13 +165,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@HectorIGarciaH](https://twitter.com/HectorIGarciaH) - hi.garcia.hdez@gmail.com
+Héctor Iván García Hernández - [@HectorIGarciaH](https://twitter.com/HectorIGarciaH) - hi.garcia.hdez@gmail.com
 
 Project Link: [https://github.com/HectorIGH/Binary-Image-classification-via-QML](https://github.com/HectorIGH/Binary-Image-classification-via-QML)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
+<!--
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
@@ -192,6 +185,7 @@ Project Link: [https://github.com/HectorIGH/Binary-Image-classification-via-QML]
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
+-->
 
 
 
@@ -211,4 +205,4 @@ Project Link: [https://github.com/HectorIGH/Binary-Image-classification-via-QML]
 [license-url]: https://github.com/HectorIGH/Binary-Image-classification-via-QML/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/hector-ivan-garcia-hernandez
-[product-screenshot]: README_images/screenshot.png
+[product-screenshot]: README_images/digits_full_weight.svg
