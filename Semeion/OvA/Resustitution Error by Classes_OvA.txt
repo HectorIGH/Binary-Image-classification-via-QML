@@ -1,0 +1,40 @@
+(0, ~) 1381 Errors of 1593 for accuracy 0.133 in training. 1284 Errors of 1593 for accuracy 0.1939 in test. [[124, 37], [1247, 185]]
+	Precision Score: 0.090
+	Recall Score: 0.770
+	F1 Score: 0.161
+(1, ~) 1367 Errors of 1593 for accuracy 0.141 in training. 1226 Errors of 1593 for accuracy 0.230 in test. [[156, 6], [1220, 211]]
+	Precision Score: 0.113
+	Recall Score: 0.962
+	F1 Score: 0.202
+(2, ~) 1366 Errors of 1593 for accuracy 0.142 in training. 1239 Errors of 1593 for accuracy 0.222 in test. [[135, 24], [1215, 219]]
+	Precision Score: 0.1
+	Recall Score: 0.849
+	F1 Score: 0.178
+(3, ~) 1364 Errors of 1593 for accuracy 0.143 in training. 1255 Errors of 1593 for accuracy 0.212 in test. [[149, 10], [1245, 189]]
+	Precision Score: 0.106
+	Recall Score: 0.937
+	F1 Score: 0.191
+(4, ~) 1362 Errors of 1593 for accuracy 0.145 in training. 1300 Errors of 1593 for accuracy 0.183 in test. [[130, 31], [1269, 163]]
+	Precision Score: 0.092
+	Recall Score: 0.807
+	F1 Score: 0.166
+(5, ~) 1360 Errors of 1593 for accuracy 0.146 in training. 1271 Errors of 1593 for accuracy 0.202 in test. [[149, 10], [1261, 173]]
+	Precision Score: 0.105
+	Recall Score: 0.937
+	F1 Score: 0.189
+(6, ~) 1362 Errors of 1593 for accuracy 0.145 in training. 1278 Errors of 1593 for accuracy 0.197 in test. [[149, 12], [1266, 166]]
+	Precision Score: 0.105
+	Recall Score: 0.925
+	F1 Score: 0.189
+(7, ~) 1363 Errors of 1593 for accuracy 0.144 in training. 1226 Errors of 1593 for accuracy 0.230 in test. [[138, 20], [1206, 229]]
+	Precision Score: 0.102
+	Recall Score: 0.873
+	F1 Score: 0.183
+(8, ~) 1372 Errors of 1593 for accuracy 0.1387 in training. 1258 Errors of 1593 for accuracy 0.210 in test. [[134, 21], [1237, 201]]
+	Precision Score: 0.097
+	Recall Score: 0.864
+	F1 Score: 0.175
+(9, ~) 1375 Errors of 1593 for accuracy 0.136 in training. 1256 Errors of 1593 for accuracy 0.211 in test. [[138, 20], [1236, 199]]
+	Precision Score: 0.100
+	Recall Score: 0.873
+	F1 Score: 0.180
