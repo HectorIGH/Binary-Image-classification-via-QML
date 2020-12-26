@@ -96,17 +96,34 @@ The models are built using Python for overall coding, Qiskit for quantum process
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+The notebooks are pretty much standalone, so you can just download any of them and the corresponding dataset folder. In order to avoid any problem you may want to download the whole repository and remove the things you do't need. To run the quantum sections on a real quantum computer you need IBMQ credentials and load them in qiskit. You can find the process _[here](https://qiskit.org/textbook/ch-appendix/qiskit.html#Accessing-on-real-quantum-hardware)_ and _[here](https://qiskit.org/documentation/install.html#access-ibm-q-systems)_.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+This is a list of the version packages used during implementation. A requirement.txt is provided.
+
+* pip
   ```sh
-  npm install npm@latest -g
+  python -m install -r requirements.txt
   ```
 
+* livelossplot==0.5.3
+* matplotlib==3.1.1
+* numpy==1.18.5
+* opencv-python==4.1.2.30
+* pandas==0.25.3
+* qiskit==0.21.0
+* qiskit-aer==0.6.1
+* qiskit-aqua==0.7.5
+* qiskit-ibmq-provider==0.9.0
+* qiskit-ignis==0.4.0
+* qiskit-terra==0.15.2
+* scikit-learn==0.23.2
+* scipy==1.4.1
+* seaborn==0.9.0
+* tqdm==4.41.1
+
+<!--
 ### Installation
 
 1. Get a free API Key at [https://example.com](https://example.com)
@@ -122,15 +139,15 @@ This is an example of how to list things you need to use the software and how to
    ```JS
    const API_KEY = 'ENTER YOUR API';
    ```
-
+-->
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Just execute each cell one by one to avoid any problem. Once familiarize with each cell action you can modify or skip some of them.
 
-_For more examples, please refer to the [Documentation](https://github.com/HectorIGH/Binary-Image-classification-via-QML/issues)_
+_For more, please refer to the [Documentation](https://github.com/HectorIGH/Binary-Image-classification-via-QML/issues)_
 
 
 
